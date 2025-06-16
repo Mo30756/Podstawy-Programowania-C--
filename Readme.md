@@ -4,14 +4,14 @@ Repozytorium zawiera rozwiązania z kursu **"Podstawy programowania C++"**.
 
 ## Struktura katalogów
 
-- **Moduł1** — zadania z pętli.
-- **Moduł2** — zadania z funkcjami.
-- **Moduł3** — zadania ze wskaźnikami.
-- **Moduł4** — zadania ze strukturami danych.
-- **Moduł5** — zadania z operacjami na plikach.
-- **Moduł6** — zadania dodatkowe / inne.
-- **Moduł7** — zadania dodatkowe / inne.
-- **Moduł8** — zadania dodatkowe / inne.
+- **Moduł1** — pierwszy program w C++ i instruckja if 
+- **Moduł2** — pętla while, do-while, for
+- **Moduł3** — zmienne tablicowe
+- **Moduł4** — tablice znakowe i obiekty string
+- **Moduł5** — funkcje, rekurencja i przeciążenie funkcji
+- **Moduł6** — wskaźniki
+- **Moduł7** — struktury danych
+- **Moduł8** — operacje na plikach
 
 ## Kompilacja i uruchomienie
 
